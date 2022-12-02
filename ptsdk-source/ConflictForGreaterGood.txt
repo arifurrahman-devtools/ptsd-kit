@@ -1,0 +1,4 @@
+GitConflictGeneration: 5/9/2022 1:31:39 PM
+637876998991290029 - Device Name: DESKTOP-VGQL2VE
+iMacPro1,1 (Acidanthera)
+7fd40584232be00a5f08620c2437345206e611ff

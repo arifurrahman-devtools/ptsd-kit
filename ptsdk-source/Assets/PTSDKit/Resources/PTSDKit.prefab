@@ -1,0 +1,431 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3632577118566448685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 95780072464349003, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_SortingOrder
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 159078523035855148, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 159078523035855148, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TestHideBanner
+      objectReference: {fileID: 0}
+    - target: {fileID: 528346828550615965, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: no_ad_IAP_identifier.androidID
+      value: no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 932873244661772741, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_Name
+      value: AdHelperCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2052272108507643905, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2052272108507643905, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TestInterstitial
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: enableABTestPanel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: abkeep.Array.data[0].ios
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].ios
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].ios
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].title
+      value: ad_frequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].title
+      value: levelsequence
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].android
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].ab_type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].android
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].isVolatile
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].disable_iOS
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].displayDefinitions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].displayDefinitions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].displayDefinitions.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].displayDefinitions.Array.data[1].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].displayDefinitions.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].displayDefinitions.Array.data[1].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].displayDefinitions.Array.data[0].significance
+      value: 10 sec
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[0].displayDefinitions.Array.data[1].significance
+      value: 15 sec
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].displayDefinitions.Array.data[0].significance
+      value: serial 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063077285613522415, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: AB_entries.Array.data[1].displayDefinitions.Array.data[1].significance
+      value: serial 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185365, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_Name
+      value: PTSDKit
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2480388558411185371, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2651382856177295834, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2651382856177295834, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TestRV
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987432902959161781, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: disableAllWrapperLogs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: enableTestUI
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: bannerAdUnitID.iosID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: rewardedAdUnitID.iosID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: bannerAdUnitID.androidID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: interstitialUnitID.iosID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: showMaxMediationDebugger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: rewardedAdUnitID.androidID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346244873341021147, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: interstitialUnitID.androidID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6556517430242070970, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: appToken.iosID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6556517430242070970, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: appToken.androidID
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6696446921341945215, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_SortingOrder
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7373899929241678037, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7373899929241678037, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TestShowBanner
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588266522606287736, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: enforceConsentFlow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588266522606287736, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: forceLocationAsConsentApplicable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: ActiveLogLevel
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: enableModuleLogs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].title
+      value: coinpack_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].title
+      value: coinpack_large
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].typeID
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].typeID
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].id.iosID
+      value: com.alphapotato.battleballet.coinpack_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].id.iosID
+      value: com.alphapotato.battleballet.coinpack_large
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].title
+      value: no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].title
+      value: diva_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[2].title
+      value: noad
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].typeID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[2].typeID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].id.iosID
+      value: com.alphapotato.battleballet.no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].id.iosID
+      value: com.alphapotato.battleballet.diva_packc
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].id.androidID
+      value: coinpack_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].id.androidID
+      value: coinpack_large
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].productID.iosID
+      value: com.alphapotato.battleballet.coinpack_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].productID.iosID
+      value: com.alphapotato.battleballet.coinpack_large
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].id.androidID
+      value: no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].id.androidID
+      value: diva_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].RewardPerPurchase
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].RewardPerPurchase
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].productID.iosID
+      value: com.alphapotato.battleballet.no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].productID.iosID
+      value: com.alphapotato.battleballet.diva_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[2].productID.iosID
+      value: com.alphapotato.battleballet.noad
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].productID.androidID
+      value: coinpack_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[1].productID.androidID
+      value: coinpack_large
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].disableAutoGeneration
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].adjustEventToken.iosID
+      value: mhnz6u
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].productID.androidID
+      value: no_ads_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].productID.androidID
+      value: diva_pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[2].productID.androidID
+      value: noad
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].disableAutoGeneration
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].disableAutoGeneration
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].adjustEventToken.iosID
+      value: aj33kk
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].adjustEventToken.iosID
+      value: 40214t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: consumablePurchases.Array.data[0].adjustEventToken.androidID
+      value: hmlg6h
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].autoGenerateKeysFromTitle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].autoGenerateKeysFromTitle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].adjustEventToken.androidID
+      value: ze40vv
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].adjustEventToken.androidID
+      value: 3jaqwa
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[0].autoGenerateProductIDFromTitle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8440782550612589450, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
+      propertyPath: nonConsumablePurchases.Array.data[1].autoGenerateProductIDFromTitle
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 32e56012fe6085d43b4f838b8f30af08, type: 3}
